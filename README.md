@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/jhorman-fuentes-a43715265/">Jhorman Fuentes</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/jhorman-fuentes-a43715265/">Jhorman Fuentes</a>' IT and Cybersecurity Project Portfolio 🔐
 
 Cybersecurity is something I genuinely enjoy, not just as a career path but as a puzzle I'm always working to solve. These projects cover areas like vulnerability management and threat detection, and reflect the hands-on work I've been putting in to build real skills in security operations. Take a look and feel free to reach out!
 
